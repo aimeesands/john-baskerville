@@ -34,17 +34,18 @@
         text-align: center;
     }
 
-article {    
-    min-width: 300px;
-    max-width: 900px;
-    margin: auto;
-}
+    article {    
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+    }
     
     a {
         color: grey;
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
+        align: center;
     }
     
     a:hover {
@@ -72,3 +73,7 @@ article {
         margin: 0 auto;
     }
    
+    footer p {
+        margin: 40px 0px 30px;
+    font-size: 12px;
+    {
