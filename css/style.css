@@ -2,8 +2,8 @@
    
     body {
         font-family: 'Libre Baskerville', serif;
-        background: #fcf4dc;
-        color: #000;
+        background: #white;
+        color: #400D0C;
     }
     
     h1, h2, h3 {
@@ -21,6 +21,7 @@
         
     h2 {
         font-size: 28px;
+        padding-bottom: 20px;
     }
         
     .subtitle {
