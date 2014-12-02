@@ -2,8 +2,8 @@
    
     body {
         font-family: 'Libre Baskerville', serif;
-        background: #white;
-        color: #400D0C;
+        background: #fcf4dc;
+        color: #000;
     }
     
     h1, h2, h3 {
@@ -21,11 +21,11 @@
         
     h2 {
         font-size: 28px;
-        padding-bottom: 20px;
     }
         
     .subtitle {
         font-style: italic;
+        padding-bottom: 30px;
     }
     
     .intro {
@@ -43,7 +43,7 @@
     
     a:hover {
         text-decoration: underline;
-        color: navy;
+        color: grey;
     }
     
     nav {
