@@ -1,9 +1,10 @@
     <!-- external Style Sheet --> 
    
-    body {
-        font-family: 'Libre Baskerville', serif;
-        background: #fcf4dc;
-        color: #000;
+     body {
+        background: #white;
+        font-family: Baskerville, serif; <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>;
+        color: #400D0C;
+        padding:100;
     }
     
     h1, h2, h3 {
@@ -14,7 +15,7 @@
      
     h1 {
         font-size: 36px;
-        text-transform: uppercase;
+        text-transform: uppercase
         letter-spacing: 4px;
         padding: 
     }
@@ -33,13 +34,12 @@
         font-size: 18px;
         text-align: center;
     }
-
+    
     article {    
         min-width: 300px;
         max-width: 900px;
         margin: auto;
     }
-    
     a {
         color: grey;
         text-decoration: none;
@@ -50,7 +50,7 @@
     
     a:hover {
         text-decoration: underline;
-        color: red;
+        color: #870710;
     }
     
     nav {
@@ -72,8 +72,8 @@
         display: block;
         margin: 0 auto;
     }
-   
-    footer p {
+    
+        footer p {
         margin: 40px 0px 30px;
     font-size: 12px;
     {
