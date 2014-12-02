@@ -35,7 +35,7 @@
     }
     
     a {
-        color: red;
+        color: grey;
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
@@ -43,7 +43,7 @@
     
     a:hover {
         text-decoration: underline;
-        color: grey;
+        color: red;
     }
     
     nav {
