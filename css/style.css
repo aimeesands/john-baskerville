@@ -33,6 +33,12 @@
         font-size: 18px;
         text-align: center;
     }
+
+article {    
+    min-width: 300px;
+    max-width: 900px;
+    margin: auto;
+}
     
     a {
         color: grey;
