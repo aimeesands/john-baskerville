@@ -5,6 +5,7 @@
         font-family: Baskerville, serif;
         color: #400D0C;
         padding:100;
+        font-size: 20px;
     }
     
     h1, h2, h3 {
@@ -14,14 +15,15 @@
     }
      
     h1 {
-        font-size: 36px;
+        font-size: 70px;
         text-transform: uppercase
         letter-spacing: 4px;
         padding: 
     }
         
     h2 {
-        font-size: 28px;
+        font-size: 30px;
+        
     }
         
     .subtitle {
@@ -49,7 +51,6 @@
     }
     
     a:hover {
-        text-decoration: underline;
         color: #870710;
     }
     
