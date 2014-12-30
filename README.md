@@ -9,4 +9,4 @@ AAD115 John Baskerville Project
 - [Version 4](http://aimeesands.github.io/john-baskerville/johnbaskerville-4.html)
 - [Version 5](http://aimeesands.github.io/john-baskerville/johnbaskerville-5.html)
 - [Version 6](http://aimeesands.github.io/john-baskerville/johnbaskerville-6.html)
-- [Version 7](http://aimeesands.github.io/.html)
+- [Version 7](http://aimeesands.github.io/johnbaskerville-7-ownversion.html.html)
