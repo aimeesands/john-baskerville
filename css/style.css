@@ -8,7 +8,7 @@
     }
     
     h1 {
-        font-family: 'Rye', cursive;
+        font-family: 'Libre Baskerville', serif;
         font-size: 70px;
         text-align: center;
         text-transform: uppercase
@@ -18,21 +18,17 @@
     }
     
     h2, h3 {
-        font-family: 'Slabo 27px', serif;
+        font-family: 'Libre Baskerville', serif;
         font-size: 30px;
         font-weight: normal;
         text-align: center;
         margin: 10px 0 10px 0;
-    }
-     
-        
-    h2 {
-        font-size: 30px;
+    
         
     }
 
     p {
-       font-family: 'Slabo 27px', serif;
+       
         font-size: 18px;
         font-weight: normal;
         text-align: center;
@@ -84,53 +80,7 @@
         margin: 0 auto;
     }
     
-    img.avatar {
-    margin-bottom: 30px;
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-    margin-top: 30px;
     
-    } 
-    .social a {
-    opacity: 0.3;
-    transition: opacity .25s ease-in-out;
-   <!---moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;-->
-        
-    }
-
-    .social a:hover {
-    opacity: 0.8;
-    
-    }
-
-    .social li {
-    display: inline;
-    margin: 5px;
-    color: #444;
-        
-    }
-
-    .social li img {
-    width: 50px;
-    
-    }
-    
-    .container {
-    width: 600px;
-    margin: 100px auto 25px;
-    background-color: #85d8dd
-    padding: 0 60px 30px;
-    border-radius: 6px;
-     
-    }
-
-    .social {
-    margin-top: 60px;
-    text-align: center;
-    }
-
     footer {
     margin-top: 30px;
     
